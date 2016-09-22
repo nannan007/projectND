@@ -14,10 +14,6 @@ end
 target :nd_kcb_ios do
     common_pods
     
-    pod 'UCSDK', '~> 0.10.0'
-    pod "SmartCan", '~> 0.5.0'
-    pod 'APFKit', '~> 0.1.0'
-    
     pod 'DateTools', '~> 1.7'
     pod 'MBProgressHUD', '~> 0.9.2'
     pod 'SDWebImage', '~>3.7'
