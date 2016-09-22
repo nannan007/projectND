@@ -15,7 +15,7 @@
 
 @interface nd_kcb_iosHelper : NSObject
 
-+ (NSString *)localizedStringForKey:(NSString *)key inBundle:(NSBundle *)bundle;
++ aaaa(NSString *)localizedStringForKey:(NSString *)key inBundle:(NSBundle *)bundle;
 + (NSString *)localizedStringForKey:(NSString *)key;
 
 + (NSString *)imagePathFor:(NSString *)baseImageName withTargetScreenScale:(CGFloat)scale inBundle:(NSBundle *)bundle;
