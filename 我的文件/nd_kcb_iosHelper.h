@@ -27,5 +27,5 @@
 + (BOOL)isSameDayAsServerDate:(NSInteger)dayIndex inWeek:(NSInteger)weekNumber withPlans:(NSDictionary *)plans withTermSetting:(KCBTermSetting *)termSetting;
 
 + (BOOL)isInSchoolTerm:(KCBTermSetting *)termSetting;
-
+1
 @end
