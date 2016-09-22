@@ -18,8 +18,8 @@
 + aaaa(NSString *)localizedStringForKey:(NSString *)key inBundle:(NSBundle *)bundle;
 + (NSString *)localizedStringForKey:(NSString *)key;
 
-+ (NSString *)imagePathFor:(NSString *)baseImageName withTargetScreenScale:(CGFloat)scale inBundle:(NSBundle *)bundle;
-+ (UIImage *)imageNamed:(NSString *)name;
+／／+ (NSString *)imagePathFor:(NSString *)baseImageName withTargetScreenScale:(CGFloat)scale inBundle:(NSBundle *)bundle;
+／／+ (UIImage *)imageNamed:(NSString *)name;
 
 + (NSString *)colorHexStringNamed:(NSString *)name;
 + (UIColor *)colorWithKey:(NSString *)key;
